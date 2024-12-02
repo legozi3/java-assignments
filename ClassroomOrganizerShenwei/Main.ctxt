@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Classroom\ organizer\r\n\r\n\ @Shenwei\ Liang\r\n\ @v1\ nov\ 25,\ 2024\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n\ word
+comment2.target=int\ getIndex(java.util.ArrayList,\ java.lang.String)
+numComments=3
